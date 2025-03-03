@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Sigmar';
+    src: url('./sigmar.ttf');
+}
+@font-face {
+    font-family: 'Tektur';
+    src: url('./tektur.ttf');
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./quicksand.ttf');
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url('./mw.ttf');
+}
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./ubuntu.ttf');
+}
+@font-face {
+    font-family: 'Playwrite';
+    src: url('./playright.ttf');
+}
+@font-face {
+    font-family: 'Moondance';
+    src: url('./moondance.ttf');
+}
